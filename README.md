@@ -5,7 +5,8 @@ HTML contact form sends user data to an API endpoint, and
 Lambda stores the data in DynamoDB.
 
 ## 🚀 Project Architecture
-
+![Architecture Diagram](images/<img width="850" height="491" alt="WEB APPLICATION USING LAMBDA,APIGATEWAY,DYNAMODB drawio" src="https://github.com/user-attachments/assets/660a9637-36db-49c0-9697-714facc6aa60" />
+.jpg)
 
 ### **Services Used**
 
