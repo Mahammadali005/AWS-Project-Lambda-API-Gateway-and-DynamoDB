@@ -57,9 +57,12 @@ Handles POST → writes to DynamoDB and returns success page
 
 ## 📥 Deployment Steps
 
-1.  Create DynamoDB Table\
-2.  Create IAM Role\
-3.  Create Lambda Function\
+1.  Create DynamoDB Table\[images/<img width="1911" height="943" alt="Dynamodb" src="https://github.com/user-attachments/assets/eb308def-89f4-46c1-af67-278733347c77" />
+2.  Create IAM Role\[images/<img width="1891" height="879" alt="IAM" src="https://github.com/user-attachments/assets/185e5e53-1f6c-48f3-93c4-619af5aca303" />
+3.  Create Lambda Function\[images/<img width="1912" height="877" alt="Lambda Function" src="https://github.com/user-attachments/assets/f5d72c4a-20b0-45ec-b1c3-b749688897c0" />
+3.1 Create Lambda Function\[images/<img width="1897" height="876" alt="Lambda Function 1" src="https://github.com/user-attachments/assets/054ab043-13e9-4efc-b0a6-24eaca3aac56" />
+3.2 Create Lambda Function\[images/![Uploading Lambda Function 2.png…]()
+
 4.  Create API Gateway\
 5.  Update HTML form action
 
