@@ -27,7 +27,7 @@ Lambda stores the data in DynamoDB.
                                            (contactus.html, success.html)
   -----------------------------------------------------------------------
 
-## 🧩 How It Works
+## 🧩 How It Works 
 
 1.  User fills the **Contact Us** HTML form (`contactus.html`).
 2.  Form submits a POST request to API Gateway → Lambda.
