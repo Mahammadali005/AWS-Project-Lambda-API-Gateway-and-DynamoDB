@@ -61,11 +61,14 @@ Handles POST → writes to DynamoDB and returns success page
 2.  Create IAM Role\[images/<img width="1891" height="879" alt="IAM" src="https://github.com/user-attachments/assets/185e5e53-1f6c-48f3-93c4-619af5aca303" />
 3.  Create Lambda Function\[images/<img width="1912" height="877" alt="Lambda Function" src="https://github.com/user-attachments/assets/f5d72c4a-20b0-45ec-b1c3-b749688897c0" />
 3.1 Create Lambda Function\[images/<img width="1897" height="876" alt="Lambda Function 1" src="https://github.com/user-attachments/assets/054ab043-13e9-4efc-b0a6-24eaca3aac56" />
-3.2 Create Lambda Function\[images/![Uploading Lambda Function 2.png…]()
-
-4.  Create API Gateway\
-5.  Update HTML form action
-
+3.2 Create Lambda Function\[images/<img width="1907" height="876" alt="Lambda Function 2" src="https://github.com/user-attachments/assets/f50b44d5-2731-4957-bbb6-6cb3d99be59e" />
+3.3 Create Lambda Function\[images/<img width="1895" height="883" alt="Lambda Function 3" src="https://github.com/user-attachments/assets/266bc320-fcb7-4d16-bf88-f9658c865343" />
+3.4 Create Lambda Function\[images/<img width="1905" height="883" alt="Lambda Function 4" src="https://github.com/user-attachments/assets/7cc22613-684f-4529-8935-a9dd0034ea2a" />
+4.  Create API Gateway\[images/<img width="1917" height="890" alt="Deploy" src="https://github.com/user-attachments/assets/d31a4525-1542-4d7d-9817-f1d93ca14249" />
+4.1 Create API Gateway\[images/<img width="1913" height="888" alt="GET" src="https://github.com/user-attachments/assets/bf940d3a-3abf-44db-af74-1676f57d338b" />
+4.2 Create API Gateway\[images/<img width="1919" height="881" alt="POST" src="https://github.com/user-attachments/assets/1ef33752-d697-4e89-aa04-d2c340f4dcbb" />
+5. Output <img width="1919" height="989" alt="Output" src="https://github.com/user-attachments/assets/2c939a96-7c1a-43b6-a4be-b81f2a23db9e" />
+5.1 Output <img width="1915" height="984" alt="Output1" src="https://github.com/user-attachments/assets/39c39aa3-12d3-4664-a3fe-3075a544a5bf" />
 ## 🛡 Security Notes
 
 -   Use least privilege IAM in production\
